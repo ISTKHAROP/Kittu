@@ -410,7 +410,7 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ ˹ɴᴇʜᴀ ꭙ мᴜsɪᴄ˼](https://t.me/nehaMusicRoBot) : ᴧʟɪᴠє 
+╭⎋ [ ˹ɴᴇʜᴀ ꭙ мᴜsɪᴄ˼](https://t.me/KittuxRoBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
@@ -437,7 +437,7 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ Kittu.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴀʀɪғsʜᴀ-ʙσᴛs](https://t.me/ARISHFA_UPDATE)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴀʀɪғsʜᴀ-sᴜᴘᴘᴏʀᴛ](https://t.me/ARISHFA_UPDATE)
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴀʀɪғsʜᴀ-ᴜᴘᴅᴧᴛєs](https://t.me/THUNDERDEVS)
 ❖ ʙᴏᴛ σᴡηєʀ ➥ [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪𓆪](https://t.me/ARISHFA_UPDATE)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](github.com/TEAM-ISTKHAR)
